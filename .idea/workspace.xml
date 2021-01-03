@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55b6f37a-1842-41ed-874e-e542c39f1e59" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="$USER_HOME$/Soft/apache-maven-3.6.3-bin/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1mYUlJzJy3CaKg3KzkZhQj7OGRl" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Soft/Android/SDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strategy.Test" />
+      <module name="strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strategy.Test" />
+      <module name="singleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55b6f37a-1842-41ed-874e-e542c39f1e59" name="Default Changelist" comment="" />
+      <created>1609670167991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609670167991</updated>
+      <workItem from="1609670169016" duration="5000" />
+      <workItem from="1609670230261" duration="7356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="199" y="27" width="1024" height="741" key="#Project_Structure" timestamp="1609670236214">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="199" y="27" width="1024" height="741" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1609670236214" />
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609674738398">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1609674738398" />
+    <state x="426" y="193" width="571" height="406" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609675348163">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="426" y="193" width="571" height="406" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1609675348163" />
+    <state x="524" y="115" width="549" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1609675193349">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="524" y="115" width="549" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1609675193349" />
+    <state x="311" y="316" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1609675138466">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="316" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1299.741@67.27.1299.741" timestamp="1609675138466" />
+    <state x="491" y="65" width="440" height="663" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1609671941668">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="491" y="65" width="440" height="663" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1299.741@67.27.1299.741" timestamp="1609671941668" />
+    <state width="1249" height="173" key="GridCell.Tab.0.bottom" timestamp="1609675300313">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1249" height="173" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1609675300313" />
+    <state width="1249" height="173" key="GridCell.Tab.0.center" timestamp="1609675300313">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1249" height="173" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1609675300313" />
+    <state width="1249" height="173" key="GridCell.Tab.0.left" timestamp="1609675300312">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1249" height="173" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1609675300312" />
+    <state width="1249" height="173" key="GridCell.Tab.0.right" timestamp="1609675300313">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1249" height="173" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1609675300313" />
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1609677292281">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1609677292281" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1609677289180">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1609677289180" />
+  </component>
+</project>
